@@ -1,0 +1,5 @@
+Flask
+PyGithub
+discord.py
+python-dotenv # For local development to load .env files
+requests
